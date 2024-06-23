@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QAAutomationCrashCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/FirstExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/ArithmeticOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/DataTypeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/LogicalOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/RelationalOperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/TernaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/DoWhileLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ForLoopBreakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/ForLoopContinueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/IFElseIFExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/IfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/InfiniteDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/InfiniteWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/NestedIfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/NestedLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/PyramidExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchFallThroughExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchStatementWithStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/WhileLoopExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2iC4pAU8CbH2dEKp3Sd5QRB1UiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArithmeticOperatorExample.executor": "Run",
+    "Application.DataTypeExample.executor": "Run",
+    "Application.DoWhileLoopExample.executor": "Run",
+    "Application.FirstExample.executor": "Run",
+    "Application.ForExample.executor": "Run",
+    "Application.ForLoopBreakExample.executor": "Run",
+    "Application.ForLoopContinueExample.executor": "Run",
+    "Application.IFElseIFExample.executor": "Run",
+    "Application.IfElseExample.executor": "Run",
+    "Application.IfExample.executor": "Run",
+    "Application.InfiniteDoWhileLoop.executor": "Run",
+    "Application.InfiniteWhileLoop.executor": "Run",
+    "Application.LogicalOperatorExample.executor": "Run",
+    "Application.NestedIfExample.executor": "Run",
+    "Application.NestedLoopExample.executor": "Run",
+    "Application.PyramidExample.executor": "Run",
+    "Application.RelationalOperatorsExample.executor": "Run",
+    "Application.SwitchExample.executor": "Run",
+    "Application.SwitchFallThroughExample.executor": "Run",
+    "Application.SwitchStatementWithStringExample.executor": "Run",
+    "Application.TernaryOperatorExample.executor": "Run",
+    "Application.WhileLoopExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ForLoopContinueExample">
+    <configuration name="DoWhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.DoWhileLoopExample" />
+      <module name="QAAutomationCrashCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopBreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.ForLoopBreakExample" />
+      <module name="QAAutomationCrashCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.ForLoopContinueExample" />
+      <module name="QAAutomationCrashCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfiniteDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.InfiniteDoWhileLoop" />
+      <module name="QAAutomationCrashCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfiniteWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.InfiniteWhileLoop" />
+      <module name="QAAutomationCrashCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForLoopContinueExample" />
+        <item itemvalue="Application.ForLoopBreakExample" />
+        <item itemvalue="Application.InfiniteDoWhileLoop" />
+        <item itemvalue="Application.DoWhileLoopExample" />
+        <item itemvalue="Application.InfiniteWhileLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="" />
+      <created>1718981406890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718981406890</updated>
+    </task>
+    <servers />
+  </component>
+</project>
