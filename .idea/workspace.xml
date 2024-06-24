@@ -5,35 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QAAutomationCrashCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/FirstExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/ArithmeticOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/DataTypeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/LogicalOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/RelationalOperatorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/TernaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/DoWhileLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/ForLoopBreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/ForLoopContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/IFElseIFExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/IfElseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/InfiniteDoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/InfiniteWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/NestedIfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/NestedLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/PyramidExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchFallThroughExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/SwitchStatementWithStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/WhileLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/PNB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/TestBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/inheritance/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Hp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverloading/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverloading/TestMethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/HDFC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/Sbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/TestMethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,11 +55,13 @@
   "keyToString": {
     "Application.ArithmeticOperatorExample.executor": "Run",
     "Application.DataTypeExample.executor": "Run",
+    "Application.Dell.executor": "Run",
     "Application.DoWhileLoopExample.executor": "Run",
     "Application.FirstExample.executor": "Run",
     "Application.ForExample.executor": "Run",
     "Application.ForLoopBreakExample.executor": "Run",
     "Application.ForLoopContinueExample.executor": "Run",
+    "Application.Hp.executor": "Run",
     "Application.IFElseIFExample.executor": "Run",
     "Application.IfElseExample.executor": "Run",
     "Application.IfExample.executor": "Run",
@@ -76,12 +70,18 @@
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.NestedIfExample.executor": "Run",
     "Application.NestedLoopExample.executor": "Run",
+    "Application.Programmer.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.RelationalOperatorsExample.executor": "Run",
     "Application.SwitchExample.executor": "Run",
     "Application.SwitchFallThroughExample.executor": "Run",
     "Application.SwitchStatementWithStringExample.executor": "Run",
     "Application.TernaryOperatorExample.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestBank.executor": "Run",
+    "Application.TestMethodOverloading.executor": "Run",
+    "Application.TestMethodOverriding.executor": "Run",
+    "Application.TestStudent.executor": "Run",
     "Application.WhileLoopExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,13 +89,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForLoopContinueExample">
-    <configuration name="DoWhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.DoWhileLoopExample" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Dell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.interfaceexample.Dell" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.interfaceexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopBreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.ForLoopBreakExample" />
+    <configuration name="Hp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.interfaceexample.Hp" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.interfaceexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.ForLoopContinueExample" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.encapsulation.Test" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.InfiniteDoWhileLoop" />
+    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.abstractclass.TestBank" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.abstractclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3.InfiniteWhileLoop" />
+    <configuration name="TestMethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.methodoverriding.TestMethodOverriding" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.methodoverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForLoopContinueExample" />
-        <item itemvalue="Application.ForLoopBreakExample" />
-        <item itemvalue="Application.InfiniteDoWhileLoop" />
-        <item itemvalue="Application.DoWhileLoopExample" />
-        <item itemvalue="Application.InfiniteWhileLoop" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Hp" />
+        <item itemvalue="Application.Dell" />
+        <item itemvalue="Application.TestBank" />
+        <item itemvalue="Application.TestMethodOverriding" />
       </list>
     </recent_temporary>
   </component>
