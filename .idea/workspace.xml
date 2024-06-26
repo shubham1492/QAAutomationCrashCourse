@@ -4,26 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/PNB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/abstractclass/TestBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/encapsulation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/encapsulation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/inheritance/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Dell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Hp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/interfaceexample/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverloading/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverloading/TestMethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/HDFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/Sbi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/methodoverriding/TestMethodOverriding.java" afterDir="false" />
+    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day4 - oops concepts">
+      <change afterPath="$PROJECT_DIR$/src/Day4/TestDefaultOutsidePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/DefaultModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/PrivateModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/ProtectedModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/TestDefaultModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/TestPrivateModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/TestProtected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/finalkeyword/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/finalkeyword/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/statickeyword/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/statickeyword/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/statickeyword/TestStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithmeticOperatorExample.executor": "Run",
+    "Application.Bike.executor": "Run",
     "Application.DataTypeExample.executor": "Run",
+    "Application.Day5.statickeyword.TestStudent.executor": "Run",
     "Application.Dell.executor": "Run",
     "Application.DoWhileLoopExample.executor": "Run",
     "Application.FirstExample.executor": "Run",
@@ -70,17 +66,21 @@
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.NestedIfExample.executor": "Run",
     "Application.NestedLoopExample.executor": "Run",
+    "Application.PrivateModifier.executor": "Run",
     "Application.Programmer.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.RelationalOperatorsExample.executor": "Run",
+    "Application.StaticBlock.executor": "Run",
     "Application.SwitchExample.executor": "Run",
     "Application.SwitchFallThroughExample.executor": "Run",
     "Application.SwitchStatementWithStringExample.executor": "Run",
     "Application.TernaryOperatorExample.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestBank.executor": "Run",
+    "Application.TestDefaultModifier.executor": "Run",
     "Application.TestMethodOverloading.executor": "Run",
     "Application.TestMethodOverriding.executor": "Run",
+    "Application.TestProtected.executor": "Run",
     "Application.TestStudent.executor": "Run",
     "Application.WhileLoopExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,13 +89,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Dell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.interfaceexample.Dell" />
+  <component name="RunManager" selected="Application.StaticBlock">
+    <configuration name="Day5.statickeyword.TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.statickeyword.TestStudent" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.interfaceexample.*" />
+          <option name="PATTERN" value="Day5.statickeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.interfaceexample.Hp" />
+    <configuration name="PrivateModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.PrivateModifier" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.interfaceexample.*" />
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.encapsulation.Test" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.statickeyword.StaticBlock" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.encapsulation.*" />
+          <option name="PATTERN" value="Day5.statickeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.abstractclass.TestBank" />
+    <configuration name="TestDefaultModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.TestDefaultModifier" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.abstractclass.*" />
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.methodoverriding.TestMethodOverriding" />
+    <configuration name="TestProtected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.TestProtected" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.methodoverriding.*" />
+          <option name="PATTERN" value="Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Hp" />
-        <item itemvalue="Application.Dell" />
-        <item itemvalue="Application.TestBank" />
-        <item itemvalue="Application.TestMethodOverriding" />
+        <item itemvalue="Application.StaticBlock" />
+        <item itemvalue="Application.Day5.statickeyword.TestStudent" />
+        <item itemvalue="Application.TestProtected" />
+        <item itemvalue="Application.TestDefaultModifier" />
+        <item itemvalue="Application.PrivateModifier" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +174,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718981406890</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day4 - oops concepts">
+      <option name="closed" value="true" />
+      <created>1719244620720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719244620720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day4 - oops concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4 - oops concepts" />
   </component>
 </project>
