@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day5 - Access modifier , keyword -Static , final , constructor, Naming convention">
-      <change afterPath="$PROJECT_DIR$/src/Day6/AdditionMetrixExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/FindMinimumNUmberInbArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/MultiDimentionalArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/TestArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/TestArrayException.java" afterDir="false" />
+    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day6 - Java Array">
+      <change afterPath="$PROJECT_DIR$/src/Day7/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringBufferExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringCompareToExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringConcatinationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringEqualExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringEqualOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/StringImmutableExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +70,16 @@
     "Application.Programmer.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.RelationalOperatorsExample.executor": "Run",
+    "Application.ReverseString.executor": "Debug",
     "Application.StaticBlock.executor": "Run",
+    "Application.StringBufferExample.executor": "Run",
+    "Application.StringBuilderExample.executor": "Run",
+    "Application.StringCompareToExample.executor": "Run",
+    "Application.StringConcatinationExample.executor": "Run",
+    "Application.StringEqualExample.executor": "Run",
+    "Application.StringEqualOperatorExample.executor": "Run",
+    "Application.StringExample.executor": "Run",
+    "Application.StringImmutableExample.executor": "Run",
     "Application.SwitchExample.executor": "Run",
     "Application.SwitchFallThroughExample.executor": "Run",
     "Application.SwitchStatementWithStringExample.executor": "Run",
@@ -88,13 +100,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AdditionMetrixExample">
-    <configuration name="AdditionMetrixExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.AdditionMetrixExample" />
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.ReverseString" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumNUmberInbArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.FindMinimumNUmberInbArray" />
+    <configuration name="StringBufferExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.StringBufferExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimentionalArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.MultiDimentionalArrayExample" />
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.StringBuilderExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.TestArrayExample" />
+    <configuration name="StringCompareToExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.StringCompareToExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.TestArrayException" />
+    <configuration name="StringConcatinationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.StringConcatinationExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdditionMetrixExample" />
-        <item itemvalue="Application.MultiDimentionalArrayExample" />
-        <item itemvalue="Application.TestArrayException" />
-        <item itemvalue="Application.FindMinimumNUmberInbArray" />
-        <item itemvalue="Application.TestArrayExample" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.StringBufferExample" />
+        <item itemvalue="Application.StringConcatinationExample" />
+        <item itemvalue="Application.StringCompareToExample" />
       </list>
     </recent_temporary>
   </component>
@@ -189,12 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719418267038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day6 - Java Array">
+      <option name="closed" value="true" />
+      <created>1719572154416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719572154416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day4 - oops concepts" />
     <MESSAGE value="Day5 - Access modifier , keyword -Static , final , constructor, Naming convention" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day5 - Access modifier , keyword -Static , final , constructor, Naming convention" />
+    <MESSAGE value="Day6 - Java Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day6 - Java Array" />
   </component>
 </project>
