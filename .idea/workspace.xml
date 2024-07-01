@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day6 - Java Array">
-      <change afterPath="$PROJECT_DIR$/src/Day7/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringBufferExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringCompareToExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringConcatinationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringEqualExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringEqualOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7/StringImmutableExample.java" afterDir="false" />
+    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day7 - Java String">
+      <change afterPath="$PROJECT_DIR$/src/Day8/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/ExceptionScenarioExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/ExcepttionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/FInallyBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/LInkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/NestedTryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/TestCustomeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/ThrowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/ThrowsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +47,15 @@
     "Application.AdditionMetrixExample.executor": "Run",
     "Application.ArithmeticOperatorExample.executor": "Run",
     "Application.ArrayExample.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
     "Application.Bike.executor": "Run",
     "Application.DataTypeExample.executor": "Run",
     "Application.Day5.statickeyword.TestStudent.executor": "Run",
     "Application.Dell.executor": "Run",
     "Application.DoWhileLoopExample.executor": "Run",
+    "Application.ExceptionScenarioExample.executor": "Run",
+    "Application.ExcepttionHandlingExample.executor": "Run",
+    "Application.FInallyBlockExample.executor": "Run",
     "Application.FindMinimumNUmberInbArray.executor": "Run",
     "Application.FirstExample.executor": "Run",
     "Application.ForExample.executor": "Run",
@@ -66,6 +71,7 @@
     "Application.MultiDimentionalArrayExample.executor": "Run",
     "Application.NestedIfExample.executor": "Run",
     "Application.NestedLoopExample.executor": "Run",
+    "Application.NestedTryCatchBlock.executor": "Run",
     "Application.PrivateModifier.executor": "Run",
     "Application.Programmer.executor": "Run",
     "Application.PyramidExample.executor": "Run",
@@ -88,11 +94,13 @@
     "Application.TestArrayExample.executor": "Run",
     "Application.TestArrayException.executor": "Run",
     "Application.TestBank.executor": "Run",
+    "Application.TestCustomeException.executor": "Run",
     "Application.TestDefaultModifier.executor": "Run",
     "Application.TestMethodOverloading.executor": "Run",
     "Application.TestMethodOverriding.executor": "Run",
     "Application.TestProtected.executor": "Run",
     "Application.TestStudent.executor": "Run",
+    "Application.ThrowExample.executor": "Run",
     "Application.WhileLoopExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -100,13 +108,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseString">
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.ReverseString" />
+  <component name="RunManager" selected="Application.LInkedListExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.ArrayListExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.StringBufferExample" />
+    <configuration name="FInallyBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.FInallyBlockExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.StringBuilderExample" />
+    <configuration name="LInkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.LInkedListExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompareToExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.StringCompareToExample" />
+    <configuration name="TestCustomeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.TestCustomeException" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcatinationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.StringConcatinationExample" />
+    <configuration name="ThrowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.ThrowExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.StringBuilderExample" />
-        <item itemvalue="Application.StringBufferExample" />
-        <item itemvalue="Application.StringConcatinationExample" />
-        <item itemvalue="Application.StringCompareToExample" />
+        <item itemvalue="Application.LInkedListExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.TestCustomeException" />
+        <item itemvalue="Application.ThrowExample" />
+        <item itemvalue="Application.FInallyBlockExample" />
       </list>
     </recent_temporary>
   </component>
@@ -209,13 +217,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719572154416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day7 - Java String">
+      <option name="closed" value="true" />
+      <created>1719663644407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719663644408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day4 - oops concepts" />
     <MESSAGE value="Day5 - Access modifier , keyword -Static , final , constructor, Naming convention" />
     <MESSAGE value="Day6 - Java Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day6 - Java Array" />
+    <MESSAGE value="Day7 - Java String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day7 - Java String" />
   </component>
 </project>
