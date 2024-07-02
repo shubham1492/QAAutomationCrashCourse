@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day7 - Java String">
-      <change afterPath="$PROJECT_DIR$/src/Day8/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/ExceptionScenarioExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/ExcepttionHandlingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/FInallyBlockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/InvalidAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/LInkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/NestedTryCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/TestCustomeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/ThrowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day8/ThrowsExample.java" afterDir="false" />
+    <list default="true" id="cd056e39-b302-4d26-927f-c8b1b227db1c" name="Changes" comment="Day8- Java Exception Handling and Collection - Arraylist and linkedlist">
+      <change afterPath="$PROJECT_DIR$/src/Day9/FindDuplicateCharacterWithCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/LinkedHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day9/TreeSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +53,22 @@
     "Application.ExceptionScenarioExample.executor": "Run",
     "Application.ExcepttionHandlingExample.executor": "Run",
     "Application.FInallyBlockExample.executor": "Run",
+    "Application.FindDuplicateCharacterWithCount.executor": "Run",
     "Application.FindMinimumNUmberInbArray.executor": "Run",
     "Application.FirstExample.executor": "Run",
     "Application.ForExample.executor": "Run",
     "Application.ForLoopBreakExample.executor": "Run",
     "Application.ForLoopContinueExample.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
     "Application.Hp.executor": "Run",
     "Application.IFElseIFExample.executor": "Run",
     "Application.IfElseExample.executor": "Run",
     "Application.IfExample.executor": "Run",
     "Application.InfiniteDoWhileLoop.executor": "Run",
     "Application.InfiniteWhileLoop.executor": "Run",
+    "Application.LinkedHashMapExample.executor": "Run",
+    "Application.LinkedHashSetExample.executor": "Run",
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.MultiDimentionalArrayExample.executor": "Run",
     "Application.NestedIfExample.executor": "Run",
@@ -101,6 +103,8 @@
     "Application.TestProtected.executor": "Run",
     "Application.TestStudent.executor": "Run",
     "Application.ThrowExample.executor": "Run",
+    "Application.TreeMapExample.executor": "Run",
+    "Application.TreeSetExample.executor": "Run",
     "Application.WhileLoopExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -108,13 +112,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LInkedListExample">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day8.ArrayListExample" />
+  <component name="RunManager" selected="Application.FindDuplicateCharacterWithCount">
+    <configuration name="FindDuplicateCharacterWithCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.FindDuplicateCharacterWithCount" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8.*" />
+          <option name="PATTERN" value="Day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FInallyBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day8.FInallyBlockExample" />
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.HashMapExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8.*" />
+          <option name="PATTERN" value="Day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LInkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day8.LInkedListExample" />
+    <configuration name="LinkedHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.LinkedHashMapExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8.*" />
+          <option name="PATTERN" value="Day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCustomeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day8.TestCustomeException" />
+    <configuration name="TreeMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.TreeMapExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8.*" />
+          <option name="PATTERN" value="Day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day8.ThrowExample" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day9.TreeSetExample" />
       <module name="QAAutomationCrashCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8.*" />
+          <option name="PATTERN" value="Day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LInkedListExample" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.TestCustomeException" />
-        <item itemvalue="Application.ThrowExample" />
-        <item itemvalue="Application.FInallyBlockExample" />
+        <item itemvalue="Application.FindDuplicateCharacterWithCount" />
+        <item itemvalue="Application.TreeMapExample" />
+        <item itemvalue="Application.LinkedHashMapExample" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.TreeSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719663644408</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day8- Java Exception Handling and Collection - Arraylist and linkedlist">
+      <option name="closed" value="true" />
+      <created>1719824423540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719824423540</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +245,7 @@
     <MESSAGE value="Day5 - Access modifier , keyword -Static , final , constructor, Naming convention" />
     <MESSAGE value="Day6 - Java Array" />
     <MESSAGE value="Day7 - Java String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day7 - Java String" />
+    <MESSAGE value="Day8- Java Exception Handling and Collection - Arraylist and linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day8- Java Exception Handling and Collection - Arraylist and linkedlist" />
   </component>
 </project>
